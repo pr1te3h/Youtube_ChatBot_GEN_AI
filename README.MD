@@ -181,12 +181,5 @@ Add your application screenshots below:
 * [ ] ⏱️ Add timestamps linking answers to relevant parts of the video
 * [ ] 📊 Improve retrieval using advanced RAG techniques
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ⭐ If you find this project useful, consider giving the repository a star!
